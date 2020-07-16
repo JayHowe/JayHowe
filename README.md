@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: jayhowe2014@163.com
 
-- 💬 Ask me about [vps-parser](https://github.com/JayHowe/vps-parser)
+- 💬 Ask me about [video-parser](https://github.com/JayHowe/video-parser)
